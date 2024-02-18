@@ -1,2 +1,5 @@
-# Quran-Translation-Learning-Managment-System
-Final Year Project
+# QLMS
+Quran Learning Managment System
+
+npm init 
+npm install 
